@@ -1,7 +1,7 @@
 public class Four{
     public static void main(String[] args){
         //types of datatypes;
-        //primitive and non primitive;
+        //primitive and non primitive :enum,structure;
         byte c=22; //1byte
         short d=33; //2 byte
         int a=2; //4 byte
