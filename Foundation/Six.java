@@ -48,5 +48,20 @@ public class Six{
         System.out.println("s="+(s*=3));
         System.out.println("r="+(r/=2));
 
+        //logical operators: and ,or and not;
+
+        int num1=2;
+        int num2=3;
+        int num3=4;
+
+        boolean result=num1>num2 || num2>num1;
+        System.out.println(result);
+
+        boolean result2=num1>num2 && num2>num1;
+        System.out.println(result2);
+
+        boolean result3=num1!=num2;
+        System.out.println(result3);
+
     }
 }
