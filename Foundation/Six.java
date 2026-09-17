@@ -28,5 +28,7 @@ public class Six{
         System.out.println("g="+(g--));
         System.out.println(g);
 
+        //re
+
     }
 }
