@@ -27,6 +27,19 @@ public class Ten{
         float h=sc.nextFloat();
         float div=g/h;
         System.out.println("div="+div);
+        System.out.print("enter a sigle character:");
+        char ch=sc.next().charAt(0);
+        System.out.println("char="+ch);
+        System.out.print("enter the string:");
+        String str=sc.next();
+        System.out.println("str="+str);
+        sc.nextLine();
+        System.out.print("enter the entire sentence:");
+        String paragraph=sc.nextLine();
+        System.out.println("paragraph="+paragraph);
+
+
+
 
     }
 }
