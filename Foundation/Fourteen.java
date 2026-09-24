@@ -29,5 +29,13 @@ public class Fourteen{
             System.out.println(k);
             k++;
         }
+        //printing of a table;
+
+        int n=2;
+        int l=1;
+        while(l<=10){
+            System.out.println(n*l);
+            l++;
+        }
     }
 }
